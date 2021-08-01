@@ -1,5 +1,5 @@
 # FAS
-![Uploading fas-site.work_posts_utf8=%E2%9C%93&search=&status=true.png…]()
+![fas-site work](https://user-images.githubusercontent.com/62799261/127780040-9f26a96b-8243-4cd3-be77-56fe81117af2.png)
 
 ## サイト概要
 **服のマッチングアドバイス用掲示板サイト**。<br>
