@@ -1,5 +1,8 @@
-# FAS
+# FAS（Fashion Advise Site）
 ![fas-site work](https://user-images.githubusercontent.com/62799261/127780040-9f26a96b-8243-4cd3-be77-56fe81117af2.png)
+
+### サイトURL
+https://fas-site.work/
 
 ## サイト概要
 **服のマッチングアドバイス用掲示板サイト**。<br>
@@ -48,7 +51,7 @@
 ## 使用技術
 * フロントエンド
     * jQuery 3.5.1
-    * HTML / SCSS / Bootstrap
+    * HTML / SCSS / Bootstrap / Vue（動作確認のみ）
 * バックエンド
     * Ruby 2.7.1
     * Ruby on Rails 6.0.3
@@ -61,8 +64,3 @@
     * Visual Studio Code
     * draw.io
     * Google spread sheet
-
-https://docs.google.com/spreadsheets/d/1ofhM5Ej0iVO3qqpLx2xMshZ5OiNPYQM8KfqVKo925uE/edit?usp=sharing
-
-### サイトURL
-https://fas-site.work/
