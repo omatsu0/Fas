@@ -63,6 +63,8 @@ https://fas-site.work/
 <div align="center">
    <img src="https://user-images.githubusercontent.com/62799261/128885489-49a73fd6-4bda-405e-9d26-6173077b2597.jpeg" alt="スマホ画面">
 </div>
+<br/>
+<br/>
 
 ## 使用技術
 * フロントエンド
@@ -80,6 +82,8 @@ https://fas-site.work/
     * Visual Studio Code
     * draw.io
     * Google spread sheet
+<br/>
+<br/>
 
 ## 工夫したところ
 - 全体的にユーザビリティを重視し、見た目や操作などが分かりやすいサイトをめざしました。
