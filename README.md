@@ -50,6 +50,9 @@ https://fas-site.work/
 | レスポンシブ対応 |
 | お問い合わせメール（自動返信あり） |
 
+<br/>
+<br/>
+
 - 投稿詳細ページ
 ![fas-site work_posts_20](https://user-images.githubusercontent.com/62799261/128077540-19d57074-dc36-4caf-b622-a7c02c977c5f.png)
 
